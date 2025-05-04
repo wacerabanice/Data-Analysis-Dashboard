@@ -18,6 +18,9 @@ Dashboard-Preview:
 
 <a href= "https://github.com/wacerabanice/Data-Analysis-Dashboard/blob/main/Dashboard-Preview.png"> Dashboard-Preview</a>
 
+![Dashboard-Preview](https://github.com/user-attachments/assets/649d5362-d6cb-4849-86d6-825ee053049a)
+
+
 
 ## 📌 Use Case
 Ideal for:
